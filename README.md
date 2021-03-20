@@ -9,19 +9,20 @@
 - I'm Python Developer
 - 🌱 I’m currently learning **Swift, Data Science with Python**
 - 👨‍💻 **All of my projects** are available at [https://github.com/galigaribaldi](https://github.com/galigaribaldi)
-- 📫 **How to reach me**galigaribaldi0@gmail.com
-- 📄 **Know about my experiences:**
+- 📫 **How to reach me** galigaribaldi0@gmail.com
 - Ask me about Flask, Django, Pandas, Movies, Terror Stories and Mundial History
+- 📄 **Know about my experiences:**
   -  I studied engineering at the **Faculty of Engineering at UNAM**. 
   - I am currently looking to strengthen my knowledge in data science and Mobile development.
   - Currently I work as a developer in Data Analysis and treatment
+  - Web developer by hunger, you can see an [example](http://coneyotl.herokuapp.com/)
 
 - ⚡ **Fun fact:** I like black and acid humor, it makes me laugh how miserable my life can be. If you have sad stories, you can tell me! You can be sure that we will find a funny meaning in it. Insanity is like gravity and it only takes one push
 - **Fun Things?:**If you want to know funny things, I'll leave you
   - I love Yann Tiersen's [music](https://youtu.be/TcEacpB5wFw)
   - My favourite sport is [swimming](https://youtu.be/rnCMjHtKbEQ)
   - I love taking [pictures](https://www.instagram.com/p/BvWSHYCgm0y/?utm_source=ig_web_copy_link)
-  - I love ❤️ Stephen King and The Beatles
+  - I love ❤️ Stephen King and The Beatles 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://dev.to/galigaribaldi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="galigaribaldi" height="30" width="40" /></a> <a href="https://linkedin.com/in/galileo-cabrera-garibaldi-b520501a8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="galileo-cabrera-garibaldi-b520501a8" height="30" width="40" /></a> <a href="https://instagram.com/galigaribaldi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="galigaribaldi" height="30" width="40" /></a> <a href="https://www.youtube.com/c/hernán galileo cabrera garibaldo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="hernán galileo cabrera garibaldo" height="30" width="40" /></a> </p>
