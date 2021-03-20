@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Swift, Data Science with Python**
 - 👨‍💻 **All of my projects** are available at [https://github.com/galigaribaldi](https://github.com/galigaribaldi)
 - 📫 **How to reach me** galigaribaldi0@gmail.com
-- Ask me about Flask, Django, Pandas, Movies, Terror Stories and Mundial History
+- Ask me about Flask, Django, Pandas, Movies, Terror Stories and World History
 - 📄 **Know about my experiences:**
   -  I studied engineering at the **Faculty of Engineering at UNAM**. 
   - I am currently looking to strengthen my knowledge in data science and Mobile development.
