@@ -2,10 +2,16 @@
 <h3 align="left">Senior Backend Engineer · Data Engineer · GIS/Geospatial Developer</h3>
 <h4 align="left">Mexico City · Remote-first · Open to opportunities</h4>
 
+<p align="left">
+  <a href="https://galigaribaldi.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-galigaribaldi.github.io-58a6ff?style=flat&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 ---
 
 ![galigaribaldi GitHub stats](https://github-readme-stats.vercel.app/api?username=galigaribaldi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galigaribaldi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galigaribaldi&layout=compact&theme=radical&hide=html,jupyter%20notebook)
 
 ---
 
@@ -104,6 +110,10 @@ REST API that ingests, models, and serves structured geospatial data for Mexico 
 &nbsp;
 <a href="https://github.com/galigaribaldi/Apimetro" target="blank">
   <img align="center" src="https://img.shields.io/badge/Apimetro-181717?style=flat&logo=github&logoColor=white" alt="Apimetro"/>
+</a>
+&nbsp;
+<a href="https://galigaribaldi.github.io" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-58a6ff?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
 
