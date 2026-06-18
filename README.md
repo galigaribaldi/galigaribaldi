@@ -25,7 +25,7 @@
 
 ### 🏢 Currently
 
-- 💼 **Backend Engineer @ [Stori](https://www.stori.com)** — Building scalable Go microservices in fintech
+- 💼 **Sucess Engineer @ [Salesforce](https://www.salesforce.com/mx/)** — Consulting and manage Services
 - 🎓 **Master's in Urban Planning @ UNAM** (2025–2027, in progress) — Geospatial data applied to urban mobility
 - 🔭 **Open source maintainer** of [Apimetro](https://github.com/galigaribaldi/Apimetro) — geospatial transit REST API for CDMX
 
